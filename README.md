@@ -1,5 +1,4 @@
-## Credit-Risk-Classification
-
+# Credit-Risk-Classification
 * The model is built on the client's loan_size, interest_rate, borrower_income, debt_to_income, num_of_accounts, derogatory_marks (presumably credit reports), total_deb (total debt).
 
 # Steps
